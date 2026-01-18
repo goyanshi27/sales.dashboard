@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Performance Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+<body>
+    <div class="dashboard-container">
+        <header>
+            <div>
+                <h1>Sales Analytics Pro</h1>
+                <p style="color: var(--text-muted); margin-top: 0.25rem;">Real-time Performance Insights</p>
+            </div>
+            <div id="data-status" style="font-size: 0.875rem; color: var(--accent); background: rgba(6, 182, 212, 0.1); padding: 0.5rem 1rem; border-radius: 2rem;">
+                ● Connected to Live Data
+            </div>
+        </header>
+
+        <section class="kpi-grid" id="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-label">Total Sales</div>
+                <div class="kpi-value" id="kpi-total-sales">$0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Total Profit</div>
+                <div class="kpi-value" id="kpi-total-profit">$0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Avg Order Value</div>
+                <div class="kpi-value" id="kpi-aov">$0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Units Sold</div>
+                <div class="kpi-value" id="kpi-total-quantity">0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Profit Margin</div>
+                <div class="kpi-value" id="kpi-margin">0%</div>
+            </div>
+        </section>
+
+        <main class="charts-grid">
+            <div class="chart-card">
+                <div class="chart-title">Sales Trend Over Time</div>
+                <div class="chart-container">
+                    <canvas id="salesTrendChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">Sales by Category</div>
+                <div class="chart-container">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">Regional Performance</div>
+                <div class="chart-container">
+                    <canvas id="regionChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">Profitability Analysis</div>
+                <div class="chart-container">
+                    <canvas id="profitChart"></canvas>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
