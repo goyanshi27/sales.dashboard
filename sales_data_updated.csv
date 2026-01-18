@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Sales,Profit,Quantity
+01-01-2025,Desks,Furniture,West,150005.41,50202.56,9
+04-01-2025,T-Shirts,Clothing,East,38198.63,10677.08,14
+05-01-2025,Clocks,Home Decor,West,21100.91,7581.41,6
+20-01-2025,Jeans,Clothing,South,52503.99,14745.07,12
+24-01-2025,Sneakers,Clothing,South,3013.21,743.63,1
+27-01-2025,Lamps,Furniture,East,75433.36,32976.74,5
+30-01-2025,Monitors,Electronics,North,365501.95,130239.32,7
+30-01-2025,Jeans,Clothing,West,59380.92,15939.36,15
+01-02-2025,Rug,Home Decor,South,7964.1,2875.85,3
+06-02-2025,Vases,Home Decor,South,33879.07,7356.2,10
+06-02-2025,Headphones,Electronics,West,237902.49,79485.68,4
+08-02-2025,Clocks,Home Decor,North,5858.19,1767.8,2
+08-02-2025,Office Chairs,Furniture,West,256508.42,98836.0,14
+08-02-2025,Headphones,Electronics,North,636555.08,120724.29,14
+11-02-2025,Office Chairs,Furniture,South,216032.34,68385.66,12
+16-02-2025,Jackets,Clothing,South,4207.93,1218.69,1
+17-02-2025,Monitors,Electronics,East,673659.22,123593.33,13
+27-02-2025,Bookshelves,Furniture,North,19710.03,7080.34,1
+02-03-2025,Smartphones,Electronics,South,331155.12,70908.32,7
+07-03-2025,Scented Candles,Home Decor,South,33510.36,10760.65,12
+08-03-2025,Smartphones,Electronics,West,265757.09,116244.68,8
+09-03-2025,Desks,Furniture,East,93087.24,23815.89,7
+13-03-2025,Scented Candles,Home Decor,East,31487.48,12441.07,12
+14-03-2025,Tablets,Electronics,West,49384.66,7410.21,1
+16-03-2025,Jackets,Clothing,South,13800.74,5242.17,4
+18-03-2025,T-Shirts,Clothing,South,32524.53,9478.43,8
+22-03-2025,Rug,Home Decor,North,15074.89,4024.94,6
+26-03-2025,Dresses,Clothing,North,57376.39,16705.15,13
+31-03-2025,Office Chairs,Furniture,East,250071.35,40313.76,12
+03-04-2025,Jeans,Clothing,East,12413.9,2892.37,4
+10-04-2025,Jeans,Clothing,East,45653.61,17843.2,10
+10-04-2025,Rug,Home Decor,South,45045.9,9256.2,14
+12-04-2025,Bookshelves,Furniture,West,273836.17,101461.03,13
+17-04-2025,Lamps,Furniture,West,297099.55,67897.05,15
+19-04-2025,Sofas,Furniture,West,73999.24,17275.66,4
+20-04-2025,Scented Candles,Home Decor,South,24978.14,7346.94,12
+20-04-2025,Lamps,Furniture,East,50393.96,16981.24,3
+21-04-2025,Clocks,Home Decor,North,6224.63,1187.1,2
+21-04-2025,Vases,Home Decor,West,32497.27,11629.17,13
+24-04-2025,Headphones,Electronics,South,611616.22,140451.49,10
+26-04-2025,Dresses,Clothing,South,48600.08,19489.07,10
+29-04-2025,Desks,Furniture,South,195294.84,31231.81,14
+30-04-2025,Desks,Furniture,East,240895.57,84733.06,14
+30-04-2025,Clocks,Home Decor,North,7104.25,2603.15,2
+01-05-2025,T-Shirts,Clothing,West,31380.07,10204.69,9
+06-05-2025,Monitors,Electronics,South,317772.94,80164.2,7
+08-05-2025,Desks,Furniture,North,150506.83,28275.16,10
+08-05-2025,Clocks,Home Decor,South,30838.38,7036.85,15
+09-05-2025,Office Chairs,Furniture,West,57710.07,18542.46,4
+13-05-2025,Lamps,Furniture,East,110631.45,19146.5,6
+13-05-2025,Sofas,Furniture,East,340175.05,113419.24,15
+14-05-2025,Sneakers,Clothing,East,58256.71,18218.65,12
+15-05-2025,Bookshelves,Furniture,North,80405.44,30206.42,4
+15-05-2025,Sofas,Furniture,East,322266.12,95856.09,15
+17-05-2025,T-Shirts,Clothing,East,24338.31,4192.52,5
+18-05-2025,Clocks,Home Decor,North,13131.05,3554.31,4
+18-05-2025,Monitors,Electronics,West,526886.5,170753.71,12
+23-05-2025,Office Chairs,Furniture,South,270098.3,69859.62,13
+23-05-2025,Office Chairs,Furniture,West,72924.28,14595.75,3
+31-05-2025,Wall Art,Home Decor,East,12777.33,5635.51,5
+03-06-2025,Bookshelves,Furniture,West,61392.0,21747.74,3
+04-06-2025,Bookshelves,Furniture,North,255361.75,102136.68,15
+09-06-2025,Laptops,Electronics,West,406846.58,134683.47,11
+13-06-2025,Jeans,Clothing,South,31843.82,12229.14,11
+16-06-2025,Scented Candles,Home Decor,East,6817.5,2752.94,3
+18-06-2025,Monitors,Electronics,East,640407.32,272437.35,14
+21-06-2025,Scented Candles,Home Decor,West,36289.2,11669.89,10
+22-06-2025,Headphones,Electronics,West,460685.72,118915.88,11
+23-06-2025,Scented Candles,Home Decor,East,28459.4,11790.62,8
+26-06-2025,Sofas,Furniture,South,61785.78,9994.3,3
+29-06-2025,Jeans,Clothing,East,25626.34,4581.65,9
+01-07-2025,Tablets,Electronics,North,340403.6,100004.04,7
+06-07-2025,Bookshelves,Furniture,North,32925.28,12421.56,2
+07-07-2025,Desks,Furniture,North,61894.58,26082.3,3
+10-07-2025,Tablets,Electronics,West,553515.98,166751.82,11
+12-07-2025,Smartphones,Electronics,South,688583.73,226490.83,13
+13-07-2025,Bookshelves,Furniture,East,195129.64,65483.37,8
+17-07-2025,Tablets,Electronics,West,257533.06,58156.5,7
+18-07-2025,Tablets,Electronics,South,721306.36,122903.67,14
+20-07-2025,Scented Candles,Home Decor,South,33897.67,7311.77,10
+23-07-2025,Headphones,Electronics,West,500693.92,166291.87,11
+27-07-2025,Sneakers,Clothing,West,19516.35,7887.57,5
+27-07-2025,Desks,Furniture,North,36165.12,13207.77,2
+27-07-2025,Jeans,Clothing,East,27418.97,8267.86,6
+28-07-2025,Tablets,Electronics,East,33303.0,12699.63,1
+28-07-2025,Sneakers,Clothing,East,8956.18,2197.47,2
+29-07-2025,Bookshelves,Furniture,East,35538.75,10132.32,2
+30-07-2025,Scented Candles,Home Decor,East,39980.67,11349.61,12
+02-08-2025,Jeans,Clothing,North,63449.51,10283.73,13
+02-08-2025,Scented Candles,Home Decor,North,41596.68,16861.21,12
+02-08-2025,Office Chairs,Furniture,South,201574.54,31147.36,11
+06-08-2025,Smartphones,Electronics,East,728256.23,324117.51,13
+07-08-2025,Clocks,Home Decor,East,10660.35,1860.04,4
+08-08-2025,T-Shirts,Clothing,West,9328.44,2473.75,3
+10-08-2025,Rug,Home Decor,North,23375.92,9540.18,9
+11-08-2025,Clocks,Home Decor,North,15813.74,3561.35,5
+11-08-2025,T-Shirts,Clothing,North,11203.11,3281.05,3
+18-08-2025,Sofas,Furniture,West,144882.56,64829.52,6
+18-08-2025,Sneakers,Clothing,South,55682.89,14527.05,12
+21-08-2025,Scented Candles,Home Decor,South,24436.42,7311.67,12
+24-08-2025,Lamps,Furniture,West,15623.84,5422.49,1
+25-08-2025,Scented Candles,Home Decor,North,17048.63,2572.72,7
+25-08-2025,Rug,Home Decor,South,16907.12,3567.42,7
+28-08-2025,Headphones,Electronics,North,50170.36,15094.01,1
+01-09-2025,Dresses,Clothing,East,39080.98,9656.76,10
+04-09-2025,Tablets,Electronics,North,225387.92,85803.29,5
+05-09-2025,Clocks,Home Decor,East,35575.24,13523.32,11
+06-09-2025,Scented Candles,Home Decor,South,7292.25,2896.9,2
+06-09-2025,Dresses,Clothing,West,49192.02,17833.59,14
+13-09-2025,Lamps,Furniture,West,333375.4,144624.45,15
+13-09-2025,Rug,Home Decor,East,2442.11,961.8,1
+17-09-2025,Laptops,Electronics,East,717111.2,169920.2,15
+26-09-2025,Dresses,Clothing,West,13409.76,4120.63,3
+26-09-2025,Lamps,Furniture,North,35639.46,7257.75,2
+28-09-2025,Sneakers,Clothing,South,3224.17,1377.97,1
+28-09-2025,Jeans,Clothing,West,64141.96,20535.91,13
+29-09-2025,Bookshelves,Furniture,North,148257.9,50104.24,6
+29-09-2025,T-Shirts,Clothing,North,38268.05,12649.03,13
+01-10-2025,Dresses,Clothing,West,36694.23,8343.29,10
+02-10-2025,Tablets,Electronics,West,384065.85,89433.67,9
+05-10-2025,Jackets,Clothing,North,31907.73,8480.47,12
+13-10-2025,Scented Candles,Home Decor,South,3732.77,1110.48,1
+15-10-2025,Office Chairs,Furniture,West,273418.67,80554.58,12
+18-10-2025,Lamps,Furniture,North,271742.62,49174.67,12
+18-10-2025,Headphones,Electronics,East,133312.95,53550.74,3
+18-10-2025,Smartphones,Electronics,West,885716.11,154103.13,15
+20-10-2025,Sofas,Furniture,South,55954.39,12924.59,3
+26-10-2025,Rug,Home Decor,South,38468.95,11475.79,12
+26-10-2025,Monitors,Electronics,North,40816.48,6610.15,1
+05-11-2025,Clocks,Home Decor,North,3128.69,976.7,1
+08-11-2025,Lamps,Furniture,East,94918.43,30574.53,6
+10-11-2025,Rug,Home Decor,South,15730.14,4673.03,5
+12-11-2025,Jackets,Clothing,South,49302.94,16178.36,12
+12-11-2025,Rug,Home Decor,East,2862.82,916.29,1
+12-11-2025,Smartphones,Electronics,East,106900.47,31952.4,2
+16-11-2025,Laptops,Electronics,South,487899.78,97268.26,10
+20-11-2025,Sneakers,Clothing,East,45232.56,9526.9,12
+20-11-2025,Scented Candles,Home Decor,North,29294.56,6068.21,9
+23-11-2025,Office Chairs,Furniture,West,92743.14,37118.88,5
+24-11-2025,Tablets,Electronics,West,522618.9,123307.11,10
+24-11-2025,Desks,Furniture,West,28780.67,12405.57,2
+24-11-2025,Sofas,Furniture,East,154295.63,47369.84,8
+25-11-2025,Dresses,Clothing,West,24676.09,10270.97,6
+25-11-2025,Bookshelves,Furniture,North,74450.64,19946.64,3
+27-11-2025,Laptops,Electronics,West,309097.43,90504.2,7
+27-11-2025,Laptops,Electronics,South,536843.3,185493.71,15
+28-11-2025,Scented Candles,Home Decor,South,18587.59,2814.42,6
+29-11-2025,Desks,Furniture,South,127370.28,19207.78,9
+02-12-2025,Wall Art,Home Decor,East,34902.21,10356.5,13
+05-12-2025,Wall Art,Home Decor,West,37264.56,7607.07,10
+10-12-2025,Dresses,Clothing,West,15476.42,5613.99,5
+11-12-2025,T-Shirts,Clothing,North,6231.14,2142.24,2
+12-12-2025,Sofas,Furniture,South,266600.87,119457.36,14
+14-12-2025,Bookshelves,Furniture,North,67314.06,13793.55,4
+15-12-2025,Smartphones,Electronics,East,155986.04,25470.81,3
+18-12-2025,Smartphones,Electronics,East,215830.44,83155.37,5
+18-12-2025,Laptops,Electronics,South,601214.98,246874.33,10
+21-12-2025,Sneakers,Clothing,South,48567.77,16177.9,13
+21-12-2025,Clocks,Home Decor,West,52184.2,17088.98,14
+22-12-2025,Sneakers,Clothing,East,39317.44,12810.57,11
+23-12-2025,Wall Art,Home Decor,North,4746.17,1431.48,2
+24-12-2025,Vases,Home Decor,West,18259.97,5541.29,6
+25-12-2025,Lamps,Furniture,West,239484.71,47690.29,13
+26-12-2025,Jackets,Clothing,North,35244.06,14710.85,9
+29-12-2025,Lamps,Furniture,North,227077.96,88430.85,11
+02-01-2026,Sofas,Furniture,North,359812.37,99079.91,15
+02-01-2026,Tablets,Electronics,West,259910.06,63995.45,6
+04-01-2026,Clocks,Home Decor,West,9467.99,2422.56,4
+05-01-2026,Rug,Home Decor,North,28611.79,9198.6,8
+06-01-2026,T-Shirts,Clothing,West,3034.6,976.16,1
+07-01-2026,Dresses,Clothing,East,9221.81,3487.1,2
+08-01-2026,Dresses,Clothing,South,46381.57,20180.92,11
+09-01-2026,Bookshelves,Furniture,West,124639.26,29870.07,9
+11-01-2026,Sofas,Furniture,North,22422.55,5001.81,1
+14-01-2026,T-Shirts,Clothing,South,38794.32,14911.95,10
+17-01-2026,Clocks,Home Decor,East,43488.41,11338.36,12
+26-01-2026,Smartphones,Electronics,South,876281.94,364766.63,15
+26-01-2026,Lamps,Furniture,North,116775.47,21961.55,5
+26-01-2026,Vases,Home Decor,West,18893.09,6469.4,6
+26-01-2026,T-Shirts,Clothing,West,8938.01,3812.61,2
+30-01-2026,Scented Candles,Home Decor,East,15720.09,4987.16,6
+31-01-2026,Jeans,Clothing,North,48791.96,15540.48,10
+02-02-2026,Smartphones,Electronics,West,155240.48,53878.22,4
+03-02-2026,Clocks,Home Decor,South,42310.62,16727.08,14
+03-02-2026,Scented Candles,Home Decor,East,18229.84,6350.77,7
+05-02-2026,Vases,Home Decor,East,26615.14,11258.89,8
+06-02-2026,Lamps,Furniture,South,165463.64,28469.49,7
+06-02-2026,Rug,Home Decor,South,5930.89,911.74,2
+07-02-2026,Desks,Furniture,North,142270.2,58251.55,8
+08-02-2026,Tablets,Electronics,East,757010.63,170022.24,13
+14-02-2026,Bookshelves,Furniture,West,204382.19,71577.97,9
+15-02-2026,Monitors,Electronics,North,539642.97,167661.7,13
+16-02-2026,Wall Art,Home Decor,West,3251.22,887.56,1
+16-02-2026,Office Chairs,Furniture,South,146066.3,60499.82,7
+19-02-2026,Jeans,Clothing,West,16349.13,2698.0,5
+20-02-2026,Clocks,Home Decor,South,8335.78,3248.94,3
+21-02-2026,Office Chairs,Furniture,East,68859.6,22619.57,4
+22-02-2026,Dresses,Clothing,North,64251.91,24723.53,13
+28-02-2026,T-Shirts,Clothing,South,3231.76,909.18,1
+01-03-2026,Jeans,Clothing,North,23549.62,9279.79,6
+03-03-2026,Vases,Home Decor,East,25531.4,6486.07,12
+03-03-2026,Desks,Furniture,West,154817.1,30569.09,9
+07-03-2026,Rug,Home Decor,North,4483.78,1211.46,2
+12-03-2026,Tablets,Electronics,South,113138.75,31437.12,2
+13-03-2026,Laptops,Electronics,West,333924.18,135949.48,10
+15-03-2026,Dresses,Clothing,North,43655.59,12585.58,13
+16-03-2026,Lamps,Furniture,South,148122.43,57259.47,6
+21-03-2026,Scented Candles,Home Decor,East,21340.35,6475.24,7
+23-03-2026,Clocks,Home Decor,South,20675.85,7959.54,10
+23-03-2026,Office Chairs,Furniture,South,149564.48,40674.62,8
+25-03-2026,Clocks,Home Decor,East,46261.16,19042.47,13
+29-03-2026,Vases,Home Decor,North,37490.73,13761.69,13
+02-04-2026,Headphones,Electronics,South,149014.31,26934.12,4
+02-04-2026,Sofas,Furniture,South,203171.21,79714.67,11
+08-04-2026,Tablets,Electronics,North,156746.68,28256.57,4
+10-04-2026,Wall Art,Home Decor,South,28940.91,6875.16,8
+12-04-2026,Tablets,Electronics,South,390027.2,89276.51,10
+14-04-2026,Lamps,Furniture,East,228365.31,75764.26,13
+14-04-2026,Lamps,Furniture,West,239026.43,60158.05,15
+14-04-2026,Jeans,Clothing,North,30725.06,8857.2,9
+15-04-2026,Bookshelves,Furniture,North,135783.83,33075.2,10
+20-04-2026,Laptops,Electronics,North,521085.02,179336.41,14
+20-04-2026,Headphones,Electronics,North,636218.03,261843.5,11
+21-04-2026,Clocks,Home Decor,North,15764.88,5476.97,5
+24-04-2026,T-Shirts,Clothing,West,46101.98,13083.36,10
+27-04-2026,Monitors,Electronics,East,774350.85,241533.08,14
+28-04-2026,Wall Art,Home Decor,North,28338.16,8505.51,8
+29-04-2026,Headphones,Electronics,West,242089.82,55410.7,5
+29-04-2026,Sofas,Furniture,West,96660.33,24638.24,7
+30-04-2026,Lamps,Furniture,East,175163.95,61757.35,12
+03-05-2026,Lamps,Furniture,South,31544.01,8522.19,2
+03-05-2026,Rug,Home Decor,East,37071.36,10672.73,14
+16-05-2026,Scented Candles,Home Decor,West,50236.42,8310.8,14
+18-05-2026,Office Chairs,Furniture,West,71167.95,20178.49,3
+18-05-2026,Clocks,Home Decor,East,24594.54,9591.16,8
+20-05-2026,Laptops,Electronics,West,441950.53,77579.14,9
+23-05-2026,Smartphones,Electronics,East,403655.73,82053.16,8
+26-05-2026,Dresses,Clothing,East,39656.16,10735.72,11
+31-05-2026,Office Chairs,Furniture,South,157893.55,64879.82,10
+02-06-2026,Wall Art,Home Decor,North,24876.03,7303.96,10
+06-06-2026,Office Chairs,Furniture,North,93300.53,34122.63,5
+06-06-2026,Office Chairs,Furniture,West,347669.98,152820.14,14
+12-06-2026,Headphones,Electronics,North,60573.25,10006.17,1
+12-06-2026,Desks,Furniture,East,47155.06,20952.54,3
+13-06-2026,Tablets,Electronics,East,105289.76,17237.57,3
+15-06-2026,Rug,Home Decor,West,25721.96,6816.19,7
+16-06-2026,Laptops,Electronics,East,435667.65,159306.62,7
+17-06-2026,Jeans,Clothing,North,51365.87,9735.94,11
+19-06-2026,Jeans,Clothing,East,2706.93,882.41,1
+20-06-2026,Rug,Home Decor,North,40633.03,6655.35,15
+26-06-2026,Vases,Home Decor,West,35119.57,6261.74,13
+27-06-2026,T-Shirts,Clothing,South,19909.86,5603.74,6
+28-06-2026,Desks,Furniture,East,226192.21,91170.55,14
+01-07-2026,Monitors,Electronics,West,491175.67,203291.76,13
+05-07-2026,T-Shirts,Clothing,North,47300.3,10959.69,12
+05-07-2026,Sneakers,Clothing,West,37832.65,13336.29,13
+07-07-2026,Clocks,Home Decor,South,21448.33,6893.48,8
+09-07-2026,Rug,Home Decor,East,16283.37,4658.74,8
+12-07-2026,Jackets,Clothing,South,27089.3,11902.29,8
+13-07-2026,Jackets,Clothing,West,24077.96,10272.3,9
+14-07-2026,T-Shirts,Clothing,West,37082.31,13354.89,10
+14-07-2026,Tablets,Electronics,West,267213.79,67624.54,7
+17-07-2026,Tablets,Electronics,South,281277.37,55081.07,7
+18-07-2026,Sneakers,Clothing,East,36340.43,15922.78,11
+23-07-2026,Rug,Home Decor,North,31951.36,7245.84,15
+27-07-2026,Bookshelves,Furniture,North,78841.88,26018.01,4
+28-07-2026,Monitors,Electronics,West,367094.25,89699.88,6
+02-08-2026,Tablets,Electronics,North,190738.93,44862.57,5
+03-08-2026,Rug,Home Decor,South,26608.06,5473.97,10
+04-08-2026,Monitors,Electronics,East,88105.62,38112.46,2
+06-08-2026,Laptops,Electronics,South,547769.6,205242.32,13
+06-08-2026,Rug,Home Decor,North,34375.76,7010.3,12
+07-08-2026,T-Shirts,Clothing,North,47909.13,19338.58,15
+09-08-2026,Monitors,Electronics,North,520830.87,146889.84,10
+12-08-2026,Smartphones,Electronics,East,334946.21,91640.73,6
+13-08-2026,Rug,Home Decor,South,4462.35,1748.27,2
+18-08-2026,Bookshelves,Furniture,North,175257.12,64114.69,9
+19-08-2026,Clocks,Home Decor,West,4207.38,911.03,2
+19-08-2026,Monitors,Electronics,East,359623.05,59233.3,6
+21-08-2026,Smartphones,Electronics,West,227165.11,67074.9,5
+21-08-2026,Lamps,Furniture,North,54534.21,10380.12,3
+21-08-2026,Wall Art,Home Decor,South,12746.32,2508.44,4
+22-08-2026,Office Chairs,Furniture,East,343827.44,123372.71,15
+22-08-2026,Scented Candles,Home Decor,North,13276.99,2914.63,4
+22-08-2026,Headphones,Electronics,West,97959.45,20030.86,2
+22-08-2026,Sneakers,Clothing,South,18213.18,4221.84,6
+25-08-2026,Smartphones,Electronics,East,576451.36,252181.04,15
+30-08-2026,Bookshelves,Furniture,North,159361.12,26261.65,8
+31-08-2026,Smartphones,Electronics,East,515908.79,162256.89,10
+01-09-2026,Laptops,Electronics,South,520730.68,211188.24,9
+03-09-2026,Headphones,Electronics,South,258316.05,62635.83,7
+05-09-2026,Wall Art,Home Decor,East,10067.63,1654.36,4
+05-09-2026,Dresses,Clothing,South,8320.22,3074.1,3
+07-09-2026,Office Chairs,Furniture,West,68077.36,18712.9,4
+11-09-2026,Smartphones,Electronics,West,209736.46,71586.95,6
+16-09-2026,Wall Art,Home Decor,South,33071.5,8254.59,9
+18-09-2026,Office Chairs,Furniture,West,119873.89,34736.73,7
+19-09-2026,Vases,Home Decor,East,34006.91,10591.52,10
+19-09-2026,Smartphones,Electronics,West,440933.21,166656.5,8
+20-09-2026,Office Chairs,Furniture,East,146779.8,51188.71,7
+21-09-2026,Desks,Furniture,North,24827.64,8003.38,1
+22-09-2026,Tablets,Electronics,East,35742.48,5943.27,1
+24-09-2026,Scented Candles,Home Decor,East,4303.04,1862.73,2
+25-09-2026,Tablets,Electronics,East,307834.11,82882.79,6
+06-10-2026,Laptops,Electronics,East,246025.1,67111.7,4
+08-10-2026,Bookshelves,Furniture,South,49454.48,19169.53,2
+08-10-2026,Dresses,Clothing,North,18394.76,4568.12,4
+11-10-2026,Dresses,Clothing,North,32437.53,7052.25,9
+14-10-2026,Rug,Home Decor,East,31498.21,10750.29,13
+15-10-2026,Clocks,Home Decor,West,28193.83,8435.91,8
+15-10-2026,Tablets,Electronics,West,646461.49,181945.84,13
+17-10-2026,Clocks,Home Decor,East,26359.87,11198.7,12
+19-10-2026,Monitors,Electronics,South,334314.33,76559.58,8
+21-10-2026,Jeans,Clothing,South,60223.1,25378.82,14
+22-10-2026,Desks,Furniture,East,58447.66,20532.28,4
+29-10-2026,Jackets,Clothing,South,36041.02,15533.55,11
+30-10-2026,Smartphones,Electronics,South,356610.13,73648.92,9
+31-10-2026,Rug,Home Decor,South,10650.31,3595.51,5
+02-11-2026,Desks,Furniture,North,155147.59,23970.97,7
+03-11-2026,Laptops,Electronics,North,555060.29,143695.68,12
+06-11-2026,Bookshelves,Furniture,South,145738.52,44547.8,6
+08-11-2026,Dresses,Clothing,West,19259.18,7252.61,4
+09-11-2026,Tablets,Electronics,East,171249.98,39977.82,4
+10-11-2026,Wall Art,Home Decor,West,19025.4,4209.54,6
+11-11-2026,Vases,Home Decor,North,46978.76,11391.62,14
+17-11-2026,Monitors,Electronics,North,719013.03,170856.89,13
+18-11-2026,Sneakers,Clothing,West,66696.53,11587.43,14
+20-11-2026,Monitors,Electronics,North,432126.97,182261.14,9
+20-11-2026,Dresses,Clothing,South,25777.84,8367.38,8
+27-11-2026,Headphones,Electronics,East,113950.4,42770.31,2
+28-11-2026,Vases,Home Decor,North,32702.55,14500.72,9
+01-12-2026,Dresses,Clothing,South,14025.4,2856.41,3
+01-12-2026,Jackets,Clothing,South,26056.93,10299.42,9
+05-12-2026,Jeans,Clothing,West,29471.78,11226.54,6
+11-12-2026,Lamps,Furniture,East,46362.26,18665.24,3
+12-12-2026,Vases,Home Decor,South,23961.14,10239.66,9
+13-12-2026,Desks,Furniture,East,284138.16,73203.92,13
+14-12-2026,Sneakers,Clothing,North,16613.94,4634.73,5
+14-12-2026,Tablets,Electronics,West,494385.11,111214.79,9
+14-12-2026,Rug,Home Decor,East,31307.66,12543.12,10
+17-12-2026,Headphones,Electronics,East,687180.88,190897.86,13
+17-12-2026,Wall Art,Home Decor,West,19159.76,2941.9,6
+19-12-2026,Rug,Home Decor,South,28951.62,10561.94,13
+19-12-2026,Clocks,Home Decor,West,3686.7,1594.41,1
+21-12-2026,Laptops,Electronics,South,402356.82,120274.06,12
+22-12-2026,Tablets,Electronics,West,181225.45,79492.63,3
+23-12-2026,Sneakers,Clothing,North,29087.23,11466.77,10
+27-12-2026,Clocks,Home Decor,West,27964.33,8672.72,9
+28-12-2026,Clocks,Home Decor,East,30817.04,11727.54,15
+30-12-2026,T-Shirts,Clothing,East,33951.42,10904.91,9
+30-12-2026,Wall Art,Home Decor,West,35126.49,9406.53,15
+03-01-2027,Wall Art,Home Decor,East,30707.05,10734.35,11
+05-01-2027,Sofas,Furniture,North,98566.48,28537.78,7
+05-01-2027,Vases,Home Decor,North,6649.81,1981.08,2
+07-01-2027,Bookshelves,Furniture,South,14653.57,4241.71,1
+07-01-2027,Dresses,Clothing,North,29432.68,5014.9,11
+08-01-2027,Desks,Furniture,North,233991.56,78600.83,10
+11-01-2027,Smartphones,Electronics,South,51285.38,11587.07,1
+15-01-2027,Jeans,Clothing,East,55647.97,18206.84,15
+16-01-2027,Lamps,Furniture,North,206118.53,40379.58,14
+19-01-2027,Lamps,Furniture,South,87302.74,35953.25,4
+24-01-2027,Monitors,Electronics,North,809151.83,350812.98,14
+24-01-2027,Rug,Home Decor,South,22493.39,5886.36,7
+25-01-2027,Jeans,Clothing,North,44156.19,19511.24,13
+27-01-2027,Monitors,Electronics,East,496726.02,108918.81,10
+27-01-2027,Smartphones,Electronics,East,233825.3,100744.71,5
+01-02-2027,Headphones,Electronics,East,161929.33,59611.39,3
+04-02-2027,Wall Art,Home Decor,East,22420.77,4884.87,8
+05-02-2027,Rug,Home Decor,East,50725.17,11667.61,15
+05-02-2027,Jackets,Clothing,South,23366.65,8206.61,8
+06-02-2027,Jeans,Clothing,East,39068.93,9881.66,8
+11-02-2027,Dresses,Clothing,West,27059.41,4561.19,9
+16-02-2027,Office Chairs,Furniture,South,21643.37,7096.51,1
+17-02-2027,Jeans,Clothing,West,72631.68,18706.23,15
+17-02-2027,Sofas,Furniture,East,130743.1,30410.5,6
+17-02-2027,Clocks,Home Decor,South,24854.94,6783.94,10
+17-02-2027,Sneakers,Clothing,West,50456.76,20096.24,15
+18-02-2027,Jeans,Clothing,North,61713.19,9986.85,15
+18-02-2027,Tablets,Electronics,South,609094.37,128734.5,12
+19-02-2027,Vases,Home Decor,West,7432.51,1671.88,3
+19-02-2027,Sneakers,Clothing,East,44417.53,16916.17,13
+20-02-2027,Office Chairs,Furniture,East,291978.33,80143.01,13
+20-02-2027,Laptops,Electronics,South,213387.58,54052.13,4
+21-02-2027,Tablets,Electronics,East,263193.55,93999.6,7
+22-02-2027,Jackets,Clothing,North,58518.88,13574.33,14
+26-02-2027,Desks,Furniture,South,33434.21,12920.18,2
+28-02-2027,T-Shirts,Clothing,South,12635.51,3730.76,4
+03-03-2027,Sofas,Furniture,West,255498.76,63460.27,14
+12-03-2027,Wall Art,Home Decor,South,10018.98,2692.18,5
+12-03-2027,Desks,Furniture,North,270669.29,59519.99,15
+16-03-2027,T-Shirts,Clothing,North,40489.45,12234.03,15
+16-03-2027,Laptops,Electronics,North,293237.52,66243.45,8
+19-03-2027,Sneakers,Clothing,North,52754.59,17775.48,11
+20-03-2027,Scented Candles,Home Decor,East,9486.2,2090.38,3
+22-03-2027,Wall Art,Home Decor,South,24768.57,5689.09,11
+26-03-2027,Bookshelves,Furniture,East,126615.0,37509.46,6
+26-03-2027,Clocks,Home Decor,North,2423.2,748.34,1
+28-03-2027,Lamps,Furniture,East,170825.44,67790.33,9
+31-03-2027,Bookshelves,Furniture,North,29942.74,11194.37,2
+01-04-2027,Sneakers,Clothing,West,10173.83,3710.4,3
+04-04-2027,Sneakers,Clothing,East,37973.63,10839.41,8
+08-04-2027,Sofas,Furniture,East,143181.29,60744.97,6
+08-04-2027,Wall Art,Home Decor,East,19185.98,8099.34,6
+08-04-2027,Tablets,Electronics,North,613877.75,184173.33,13
+09-04-2027,Bookshelves,Furniture,South,337655.79,78405.65,14
+09-04-2027,Bookshelves,Furniture,South,173949.08,77013.01,7
+13-04-2027,Sofas,Furniture,East,140660.8,53305.84,7
+15-04-2027,Clocks,Home Decor,West,7911.84,2503.89,3
+17-04-2027,Headphones,Electronics,West,538215.54,102050.09,11
+18-04-2027,Jeans,Clothing,South,42247.76,10495.89,13
+27-04-2027,Desks,Furniture,South,286553.34,56393.32,14
+29-04-2027,Monitors,Electronics,East,723380.0,220212.02,12
+01-05-2027,Scented Candles,Home Decor,South,2014.22,355.91,1
+04-05-2027,Rug,Home Decor,East,38326.49,12983.07,15
+07-05-2027,Desks,Furniture,East,170034.89,62738.98,9
+10-05-2027,Bookshelves,Furniture,East,245800.47,87030.09,15
+11-05-2027,Jeans,Clothing,West,62357.17,18941.98,15
+13-05-2027,Jeans,Clothing,East,34122.13,14385.92,9
+14-05-2027,Clocks,Home Decor,North,15733.64,6428.02,6
+18-05-2027,Desks,Furniture,North,99334.5,35257.55,7
+20-05-2027,Smartphones,Electronics,East,280775.9,68040.92,5
+23-05-2027,Lamps,Furniture,West,221261.36,92703.62,14
+25-05-2027,Wall Art,Home Decor,South,23862.51,8447.2,10
+28-05-2027,Desks,Furniture,South,104257.22,31692.57,5
+30-05-2027,Bookshelves,Furniture,North,144623.59,59526.17,10
+30-05-2027,Bookshelves,Furniture,East,188363.08,30212.46,8
+08-06-2027,Vases,Home Decor,East,18300.43,2829.25,5
+08-06-2027,Laptops,Electronics,North,710725.71,186769.86,14
+10-06-2027,Desks,Furniture,East,190215.43,66901.07,11
+10-06-2027,Headphones,Electronics,West,142153.29,59662.76,3
+12-06-2027,Laptops,Electronics,West,321277.08,100350.59,6
+14-06-2027,Sofas,Furniture,North,166240.9,60034.55,9
+16-06-2027,Monitors,Electronics,West,42836.87,14317.81,1
+18-06-2027,Vases,Home Decor,East,2329.65,906.2,1
+19-06-2027,T-Shirts,Clothing,South,38228.41,9352.04,14
+20-06-2027,Sofas,Furniture,North,248946.5,68405.36,13
+22-06-2027,Laptops,Electronics,North,140631.92,22420.09,4
+22-06-2027,Bookshelves,Furniture,West,115690.67,17691.07,6
+25-06-2027,Scented Candles,Home Decor,East,2962.36,970.17,1
+26-06-2027,Office Chairs,Furniture,East,217277.02,70341.89,9
+28-06-2027,Bookshelves,Furniture,North,296802.24,105933.4,13
+30-06-2027,Desks,Furniture,West,127527.81,54999.23,6
+01-07-2027,Lamps,Furniture,East,114073.16,46929.35,5
+03-07-2027,Smartphones,Electronics,West,247760.51,42323.99,6
+09-07-2027,Headphones,Electronics,North,755470.23,189311.1,14
+14-07-2027,Rug,Home Decor,West,17456.35,7803.15,5
+18-07-2027,Tablets,Electronics,North,242166.68,59523.35,5
+21-07-2027,Tablets,Electronics,North,670934.87,276273.38,13
+25-07-2027,Laptops,Electronics,North,138143.05,35805.7,4
+26-07-2027,Headphones,Electronics,South,411803.59,108825.28,9
+31-07-2027,Rug,Home Decor,South,4041.74,1240.06,2
+01-08-2027,Monitors,Electronics,East,150257.94,29631.95,4
+04-08-2027,Office Chairs,Furniture,North,166729.74,28422.19,12
+07-08-2027,Office Chairs,Furniture,East,83565.29,36993.83,4
+10-08-2027,Office Chairs,Furniture,East,42552.4,12467.03,2
+10-08-2027,Sneakers,Clothing,East,45731.65,11336.51,11
+12-08-2027,Office Chairs,Furniture,South,176904.15,54859.19,11
+12-08-2027,Smartphones,Electronics,North,316074.51,87259.61,8
+13-08-2027,Laptops,Electronics,South,417550.45,121659.96,8
+16-08-2027,Wall Art,Home Decor,East,45830.6,15779.28,15
+18-08-2027,Office Chairs,Furniture,South,223418.5,49207.58,9
+22-08-2027,Wall Art,Home Decor,South,30282.47,10169.29,10
+26-08-2027,T-Shirts,Clothing,East,42763.88,14687.17,9
+28-08-2027,Wall Art,Home Decor,East,26905.32,7808.51,9
+06-09-2027,Sofas,Furniture,South,121041.32,38721.99,8
+08-09-2027,Jackets,Clothing,West,31169.62,8034.84,8
+12-09-2027,Rug,Home Decor,West,26286.72,6263.35,13
+14-09-2027,Clocks,Home Decor,South,11183.14,2529.55,4
+18-09-2027,Laptops,Electronics,North,355534.15,73760.63,9
+22-09-2027,Lamps,Furniture,South,49214.52,11345.03,3
+26-09-2027,Headphones,Electronics,West,844947.02,155480.57,15
+27-09-2027,Office Chairs,Furniture,North,236862.58,48027.68,13
+04-10-2027,Clocks,Home Decor,East,16612.69,4927.1,5
+04-10-2027,Sneakers,Clothing,West,59037.01,9935.56,15
+04-10-2027,Wall Art,Home Decor,West,29931.06,13133.08,9
+11-10-2027,T-Shirts,Clothing,West,17330.46,6845.85,5
+12-10-2027,Bookshelves,Furniture,North,319116.88,131055.55,15
+13-10-2027,Office Chairs,Furniture,East,20116.15,4406.13,1
+14-10-2027,Jeans,Clothing,North,32780.41,13360.57,7
+18-10-2027,Tablets,Electronics,East,392145.94,115841.42,8
+22-10-2027,Rug,Home Decor,West,31408.33,7911.7,13
+22-10-2027,Wall Art,Home Decor,North,42089.99,11172.34,13
+24-10-2027,Office Chairs,Furniture,East,88147.05,14076.37,4
+24-10-2027,Tablets,Electronics,West,375853.13,134973.12,9
+29-10-2027,Monitors,Electronics,South,610705.85,162698.01,15
+05-11-2027,Headphones,Electronics,North,241228.25,83737.88,6
+06-11-2027,Dresses,Clothing,East,55842.4,20702.72,13
+07-11-2027,Sneakers,Clothing,West,18595.18,2982.65,7
+12-11-2027,Tablets,Electronics,East,539865.43,92942.46,11
+14-11-2027,Monitors,Electronics,North,399747.65,160233.25,11
+17-11-2027,T-Shirts,Clothing,East,40695.71,11544.03,9
+20-11-2027,Office Chairs,Furniture,East,217206.36,76526.22,13
+22-11-2027,T-Shirts,Clothing,West,6943.87,2457.27,2
+26-11-2027,Bookshelves,Furniture,North,69633.57,25991.63,4
+03-12-2027,Vases,Home Decor,East,43073.07,12808.21,12
+05-12-2027,Vases,Home Decor,West,31945.82,7950.92,13
+07-12-2027,Clocks,Home Decor,East,24723.02,8756.44,10
+07-12-2027,Lamps,Furniture,South,252307.36,40350.8,13
+08-12-2027,Dresses,Clothing,West,23081.32,10257.24,8
+08-12-2027,T-Shirts,Clothing,South,51537.04,15756.41,11
+08-12-2027,Dresses,Clothing,North,35482.65,9903.99,13
+09-12-2027,Lamps,Furniture,West,120531.26,20800.46,9
+12-12-2027,Office Chairs,Furniture,West,79725.58,29600.35,5
+12-12-2027,Sneakers,Clothing,North,46239.41,10926.68,11
+15-12-2027,Bookshelves,Furniture,North,147758.59,58560.04,7
+19-12-2027,Jeans,Clothing,North,34501.97,14570.8,11
+20-12-2027,Tablets,Electronics,North,662946.35,209233.95,15
+21-12-2027,Sofas,Furniture,West,207050.78,61993.37,10
+22-12-2027,Monitors,Electronics,West,131934.44,34887.89,3
+23-12-2027,Jackets,Clothing,South,5542.71,1782.15,2
+25-12-2027,Laptops,Electronics,East,121281.46,53142.63,2
+01-01-2028,Smartphones,Electronics,East,664175.96,283245.31,12
+02-01-2028,Smartphones,Electronics,East,208961.97,56145.9,4
+05-01-2028,Clocks,Home Decor,North,29664.08,11610.38,14
+06-01-2028,Smartphones,Electronics,North,105219.0,41293.62,2
+06-01-2028,T-Shirts,Clothing,East,63006.26,15328.46,14
+10-01-2028,Bookshelves,Furniture,South,21323.49,3580.12,1
+11-01-2028,Lamps,Furniture,North,194688.57,36079.76,9
+11-01-2028,Vases,Home Decor,South,30531.17,6201.6,13
+16-01-2028,Jeans,Clothing,North,43778.31,9709.36,10
+17-01-2028,Tablets,Electronics,North,88980.28,20589.42,2
+18-01-2028,Jackets,Clothing,North,9019.59,2389.38,3
+21-01-2028,Rug,Home Decor,North,20614.77,5764.07,10
+22-01-2028,Jackets,Clothing,East,37497.14,12985.37,13
+24-01-2028,Scented Candles,Home Decor,West,33476.49,9083.28,11
+25-01-2028,Rug,Home Decor,West,11152.72,2156.85,4
+25-01-2028,Vases,Home Decor,West,35782.54,15188.32,12
+26-01-2028,Desks,Furniture,South,179233.21,68812.24,8
+31-01-2028,Sofas,Furniture,East,67056.6,21437.67,3
+31-01-2028,Vases,Home Decor,East,16653.75,5379.15,7
+05-02-2028,Tablets,Electronics,South,61344.65,19895.49,1
+05-02-2028,Office Chairs,Furniture,North,139301.76,26679.42,8
+10-02-2028,Laptops,Electronics,East,278055.18,83537.52,6
+11-02-2028,Jackets,Clothing,South,53472.64,19708.21,14
+13-02-2028,Jeans,Clothing,East,23248.31,3586.31,5
+13-02-2028,Office Chairs,Furniture,North,208355.63,73574.34,9
+14-02-2028,Office Chairs,Furniture,South,41759.53,10636.4,3
+16-02-2028,Lamps,Furniture,North,240759.59,96024.13,10
+18-02-2028,Dresses,Clothing,West,54298.11,16879.37,11
+20-02-2028,Smartphones,Electronics,North,308289.88,137508.48,7
+20-02-2028,Vases,Home Decor,West,12448.57,4844.48,4
+29-02-2028,Sofas,Furniture,North,173120.74,37083.26,12
+02-03-2028,Jackets,Clothing,North,33457.3,8721.51,9
+06-03-2028,Desks,Furniture,North,102030.57,25673.1,5
+06-03-2028,Jeans,Clothing,North,4095.48,684.21,1
+08-03-2028,Rug,Home Decor,South,8965.61,2073.61,4
+09-03-2028,Dresses,Clothing,South,17072.46,5959.72,6
+09-03-2028,Headphones,Electronics,South,670802.16,155851.03,11
+11-03-2028,Monitors,Electronics,South,629527.5,151149.67,15
+13-03-2028,Smartphones,Electronics,East,475993.16,92440.06,8
+13-03-2028,Headphones,Electronics,South,457481.03,94512.82,9
+13-03-2028,Smartphones,Electronics,East,370330.13,124024.57,8
+24-03-2028,Jackets,Clothing,North,38352.27,7533.12,10
+24-03-2028,Headphones,Electronics,North,231371.44,36284.7,5
+26-03-2028,Laptops,Electronics,East,292493.93,68760.48,8
+28-03-2028,Wall Art,Home Decor,West,30264.37,8194.16,12
+31-03-2028,Tablets,Electronics,North,229157.5,99519.5,6
+31-03-2028,Laptops,Electronics,East,507108.45,217314.46,10
+01-04-2028,Sneakers,Clothing,South,58919.64,16015.99,13
+02-04-2028,Desks,Furniture,North,146704.11,35159.27,7
+06-04-2028,Clocks,Home Decor,East,24778.17,11116.52,7
+06-04-2028,Lamps,Furniture,North,122556.82,18772.95,7
+09-04-2028,Dresses,Clothing,South,28094.94,12405.53,8
+09-04-2028,Jackets,Clothing,West,55072.02,13651.0,12
+10-04-2028,Headphones,Electronics,West,73768.32,12766.25,2
+13-04-2028,Dresses,Clothing,East,53921.01,22649.34,14
+14-04-2028,Vases,Home Decor,North,41879.38,10418.02,12
+18-04-2028,T-Shirts,Clothing,North,25151.86,6085.46,6
+19-04-2028,Vases,Home Decor,South,21295.4,8857.42,7
+23-04-2028,T-Shirts,Clothing,West,5966.24,2624.85,2
+23-04-2028,Dresses,Clothing,South,19523.62,5729.3,4
+23-04-2028,Bookshelves,Furniture,East,19711.95,6239.24,1
+23-04-2028,Sofas,Furniture,South,245529.78,99808.15,10
+24-04-2028,Tablets,Electronics,East,49640.24,17659.01,1
+24-04-2028,Office Chairs,Furniture,North,75360.24,27393.68,5
+25-04-2028,Sneakers,Clothing,West,30577.16,9934.74,7
+25-04-2028,Scented Candles,Home Decor,South,38703.58,16335.4,13
+26-04-2028,Desks,Furniture,West,266277.28,94047.91,11
+07-05-2028,Bookshelves,Furniture,East,188262.82,68056.35,12
+14-05-2028,Sofas,Furniture,South,72070.74,13576.92,5
+19-05-2028,Headphones,Electronics,West,312746.28,108903.56,7
+20-05-2028,Laptops,Electronics,West,715620.92,138555.06,15
+21-05-2028,Sneakers,Clothing,West,10873.5,1639.01,4
+23-05-2028,Sofas,Furniture,East,182007.18,41370.93,13
+24-05-2028,Monitors,Electronics,East,787071.63,339762.3,15
+25-05-2028,Dresses,Clothing,North,23010.31,5594.32,6
+25-05-2028,Monitors,Electronics,South,605536.83,118841.62,10
+29-05-2028,Smartphones,Electronics,North,498663.74,165504.15,9
+30-05-2028,T-Shirts,Clothing,West,30489.4,5045.57,10
+01-06-2028,Scented Candles,Home Decor,North,20061.52,8945.96,10
+04-06-2028,Monitors,Electronics,North,510071.1,108802.02,13
+05-06-2028,Sneakers,Clothing,West,48529.6,10948.26,14
+06-06-2028,Sofas,Furniture,East,220425.29,61386.73,13
+11-06-2028,Scented Candles,Home Decor,East,15063.25,4355.21,5
+13-06-2028,Office Chairs,Furniture,South,298090.32,51756.56,15
+13-06-2028,Smartphones,Electronics,South,332454.07,55841.82,7
+25-06-2028,Desks,Furniture,South,13817.0,6151.06,1
+01-07-2028,Vases,Home Decor,West,18543.95,5162.42,5
+03-07-2028,Sneakers,Clothing,South,16689.39,5412.52,4
+03-07-2028,Headphones,Electronics,North,371117.68,156543.57,8
+04-07-2028,Laptops,Electronics,East,204909.27,78742.02,4
+11-07-2028,Tablets,Electronics,North,334334.29,126606.41,9
+12-07-2028,Headphones,Electronics,West,95278.86,21084.51,2
+16-07-2028,Dresses,Clothing,West,54852.05,12396.24,14
+16-07-2028,Smartphones,Electronics,East,777597.81,302279.36,13
+17-07-2028,Scented Candles,Home Decor,North,8203.93,2671.29,3
+19-07-2028,Jackets,Clothing,East,7795.99,1991.79,2
+20-07-2028,Clocks,Home Decor,West,17939.61,7041.26,6
+22-07-2028,Scented Candles,Home Decor,East,11022.13,3890.67,5
+22-07-2028,Jeans,Clothing,East,31285.2,6218.85,8
+30-07-2028,Jeans,Clothing,East,44834.06,15605.11,15
+30-07-2028,Headphones,Electronics,North,700025.69,109746.9,13
+31-07-2028,Sneakers,Clothing,South,21179.72,8364.9,6
+31-07-2028,Wall Art,Home Decor,East,6799.55,1253.42,3
+01-08-2028,Office Chairs,Furniture,East,107299.34,22844.6,8
+03-08-2028,T-Shirts,Clothing,East,7645.49,3215.56,2
+07-08-2028,Sneakers,Clothing,North,14730.2,6246.04,4
+11-08-2028,Rug,Home Decor,South,13427.44,3395.23,5
+12-08-2028,Rug,Home Decor,West,26009.3,7593.57,11
+12-08-2028,Laptops,Electronics,North,57462.37,10856.5,1
+13-08-2028,T-Shirts,Clothing,North,19565.93,7841.78,4
+15-08-2028,Sneakers,Clothing,North,47438.31,14949.77,13
+20-08-2028,Monitors,Electronics,East,766534.68,248042.52,14
+21-08-2028,Wall Art,Home Decor,East,18675.54,3275.87,7
+24-08-2028,Clocks,Home Decor,East,22985.4,6414.3,8
+24-08-2028,Jackets,Clothing,East,12017.74,4562.44,4
+25-08-2028,Rug,Home Decor,East,24906.28,10980.25,9
+28-08-2028,Vases,Home Decor,East,13399.02,3320.81,4
+31-08-2028,Vases,Home Decor,South,10088.68,4166.0,3
+05-09-2028,Jeans,Clothing,West,43741.78,10487.98,10
+07-09-2028,Sofas,Furniture,North,116273.4,22488.02,5
+08-09-2028,Sneakers,Clothing,East,65394.75,17119.47,15
+12-09-2028,Rug,Home Decor,East,40034.2,15776.27,11
+15-09-2028,Monitors,Electronics,South,263169.02,56389.5,5
+16-09-2028,Sneakers,Clothing,East,16201.31,3016.63,5
+19-09-2028,Scented Candles,Home Decor,East,11419.83,4094.18,5
+26-09-2028,Clocks,Home Decor,West,9146.14,2786.39,3
+27-09-2028,Wall Art,Home Decor,North,29947.07,11190.21,9
+28-09-2028,Rug,Home Decor,South,2596.44,663.58,1
+01-10-2028,Sneakers,Clothing,West,70092.59,28803.57,15
+03-10-2028,Sofas,Furniture,North,207241.03,89475.15,11
+04-10-2028,Sneakers,Clothing,West,72558.22,29409.15,15
+04-10-2028,Rug,Home Decor,North,40603.23,12972.03,14
+08-10-2028,Vases,Home Decor,West,33216.83,11183.35,15
+09-10-2028,Clocks,Home Decor,East,27310.8,7114.66,8
+10-10-2028,Laptops,Electronics,West,87256.7,22092.24,2
+14-10-2028,Scented Candles,Home Decor,West,17236.25,5017.34,5
+14-10-2028,Laptops,Electronics,North,60755.29,23166.4,1
+16-10-2028,Wall Art,Home Decor,West,25075.49,10454.62,11
+17-10-2028,Headphones,Electronics,North,215672.39,76243.17,6
+18-10-2028,Smartphones,Electronics,West,366890.62,65059.46,11
+18-10-2028,Laptops,Electronics,East,414384.64,128834.67,11
+25-10-2028,Bookshelves,Furniture,East,297129.98,75355.48,12
+27-10-2028,Office Chairs,Furniture,East,263636.98,104567.57,14
+30-10-2028,Jackets,Clothing,East,34837.11,14598.95,12
+02-11-2028,Desks,Furniture,North,289159.57,93183.55,12
+04-11-2028,Scented Candles,Home Decor,South,10933.53,4651.8,3
+04-11-2028,Office Chairs,Furniture,West,171234.29,39649.29,7
+06-11-2028,Smartphones,Electronics,South,344410.8,68207.36,9
+08-11-2028,Bookshelves,Furniture,East,183321.17,42208.18,11
+09-11-2028,Scented Candles,Home Decor,West,31222.12,10387.24,11
+14-11-2028,Rug,Home Decor,North,31764.47,8956.62,9
+16-11-2028,Sneakers,Clothing,East,36963.89,7753.73,8
+19-11-2028,Headphones,Electronics,North,679830.8,275128.75,13
+21-11-2028,Jeans,Clothing,East,13195.44,5437.02,3
+21-11-2028,Rug,Home Decor,North,11607.66,1817.89,5
+23-11-2028,Scented Candles,Home Decor,North,28086.01,4319.51,9
+23-11-2028,Clocks,Home Decor,South,27925.2,6767.96,13
+23-11-2028,Vases,Home Decor,North,31805.42,11682.76,12
+26-11-2028,Jackets,Clothing,South,48941.45,14018.19,10
+02-12-2028,Jeans,Clothing,South,5992.67,1253.56,2
+03-12-2028,Sneakers,Clothing,South,43033.3,7548.72,10
+08-12-2028,Smartphones,Electronics,South,522958.62,89360.88,10
+12-12-2028,Clocks,Home Decor,South,44324.92,17294.88,14
+15-12-2028,Scented Candles,Home Decor,North,6323.75,1719.19,2
+22-12-2028,Dresses,Clothing,West,19523.41,4562.66,4
+24-12-2028,Jackets,Clothing,East,60621.96,25099.44,15
+24-12-2028,Rug,Home Decor,South,21497.64,3952.42,9
+28-12-2028,Rug,Home Decor,South,33144.98,8751.0,11
+01-01-2029,Sofas,Furniture,South,117917.0,42043.25,7
+07-01-2029,Sofas,Furniture,East,15304.74,2536.3,1
+07-01-2029,Lamps,Furniture,East,130875.14,24339.38,8
+08-01-2029,Sneakers,Clothing,South,15561.72,4976.3,4
+10-01-2029,Jackets,Clothing,West,4125.4,1805.47,1
+12-01-2029,Bookshelves,Furniture,West,147640.48,56462.16,8
+15-01-2029,Laptops,Electronics,East,824079.72,219169.74,14
+16-01-2029,T-Shirts,Clothing,East,52320.75,10446.23,11
+17-01-2029,Jeans,Clothing,West,41132.27,18276.71,9
+19-01-2029,Rug,Home Decor,West,31094.11,13811.29,15
+21-01-2029,Office Chairs,Furniture,North,175209.96,41492.59,11
+28-01-2029,Smartphones,Electronics,West,296834.29,99714.77,6
+28-01-2029,Vases,Home Decor,East,45400.68,11233.41,13
+30-01-2029,Laptops,Electronics,West,280311.01,45483.91,6
+31-01-2029,Bookshelves,Furniture,North,269702.79,106725.42,11
+31-01-2029,Jeans,Clothing,West,17164.5,6720.69,5
+06-02-2029,Desks,Furniture,West,123729.86,20003.92,9
+07-02-2029,Jeans,Clothing,East,68588.69,20203.1,15
+09-02-2029,Sofas,Furniture,North,193702.48,40951.37,9
+09-02-2029,Dresses,Clothing,North,61457.25,15510.39,13
+11-02-2029,Tablets,Electronics,South,253226.38,101042.7,7
+12-02-2029,Wall Art,Home Decor,West,27784.64,4323.73,12
+12-02-2029,Desks,Furniture,East,218003.69,70011.05,13
+14-02-2029,Jeans,Clothing,West,59101.47,24370.44,13
+15-02-2029,Bookshelves,Furniture,North,299232.91,109768.66,15
+16-02-2029,Rug,Home Decor,West,54887.14,13815.7,15
+18-02-2029,Dresses,Clothing,West,57959.84,15153.14,14
+24-02-2029,Jackets,Clothing,North,41673.94,8219.06,15
+26-02-2029,Wall Art,Home Decor,North,24844.79,6208.01,7
+28-02-2029,Clocks,Home Decor,South,40727.16,7318.93,15
+08-03-2029,Headphones,Electronics,East,252899.28,71740.65,6
+13-03-2029,Jackets,Clothing,North,22434.86,10017.35,8
+14-03-2029,Lamps,Furniture,North,45890.38,8167.07,2
+18-03-2029,Vases,Home Decor,North,31957.41,10807.12,10
+23-03-2029,Jeans,Clothing,North,46355.54,14024.71,11
+26-03-2029,Scented Candles,Home Decor,South,28898.86,7655.06,12
+28-03-2029,Jackets,Clothing,East,2721.41,445.05,1
+02-04-2029,T-Shirts,Clothing,West,47758.66,14149.22,14
+02-04-2029,Sneakers,Clothing,North,6323.46,1212.05,2
+05-04-2029,Scented Candles,Home Decor,South,10326.61,4508.54,5
+05-04-2029,Dresses,Clothing,North,59453.73,23874.3,14
+06-04-2029,Sneakers,Clothing,East,31858.15,12993.43,7
+09-04-2029,Headphones,Electronics,West,707643.18,124832.64,14
+11-04-2029,Sneakers,Clothing,West,10058.82,2063.7,3
+13-04-2029,Sneakers,Clothing,North,64977.55,12424.33,14
+19-04-2029,Lamps,Furniture,South,79974.16,32193.59,4
+21-04-2029,Laptops,Electronics,West,268796.19,88389.97,7
+25-04-2029,Wall Art,Home Decor,South,20922.03,6746.17,7
+26-04-2029,Clocks,Home Decor,West,21871.93,6910.82,9
+27-04-2029,Bookshelves,Furniture,North,220163.86,67364.88,12
+29-04-2029,Rug,Home Decor,South,4445.94,1635.77,2
+05-05-2029,Monitors,Electronics,East,150428.49,63052.49,4
+06-05-2029,Jeans,Clothing,West,37286.59,9604.17,12
+11-05-2029,Clocks,Home Decor,East,2630.56,872.78,1
+13-05-2029,Sneakers,Clothing,South,64391.9,23647.87,13
+17-05-2029,Headphones,Electronics,West,117830.94,33157.05,2
+19-05-2029,Jeans,Clothing,East,53481.78,8081.69,15
+22-05-2029,Vases,Home Decor,South,23220.9,8291.8,9
+24-05-2029,T-Shirts,Clothing,South,28422.38,6318.99,8
+28-05-2029,Vases,Home Decor,East,29853.94,8526.21,11
+29-05-2029,T-Shirts,Clothing,South,49736.44,10145.15,10
+29-05-2029,Lamps,Furniture,South,206481.45,77873.41,12
+29-05-2029,Clocks,Home Decor,North,10979.46,4237.09,4
+03-06-2029,Sneakers,Clothing,West,25671.67,5477.43,7
+04-06-2029,Monitors,Electronics,North,367107.97,69461.41,7
+08-06-2029,Sneakers,Clothing,East,48240.02,21209.1,12
+09-06-2029,Headphones,Electronics,East,222983.53,43983.76,6
+10-06-2029,Bookshelves,Furniture,West,144451.16,62218.04,6
+12-06-2029,Jeans,Clothing,West,31547.42,5632.95,11
+13-06-2029,T-Shirts,Clothing,East,64516.0,19172.93,13
+16-06-2029,T-Shirts,Clothing,West,3270.6,611.85,1
+20-06-2029,Headphones,Electronics,South,401857.17,160901.67,10
+20-06-2029,Smartphones,Electronics,North,227365.66,66609.46,4
+22-06-2029,Bookshelves,Furniture,North,96533.96,18028.35,6
+24-06-2029,T-Shirts,Clothing,West,32991.82,11855.98,9
+25-06-2029,Sneakers,Clothing,North,2885.16,624.93,1
+29-06-2029,Tablets,Electronics,East,516754.33,129147.55,12
+29-06-2029,Sneakers,Clothing,South,29607.67,9556.4,10
+30-06-2029,Wall Art,Home Decor,North,6756.15,2154.21,3
+30-06-2029,Smartphones,Electronics,South,340805.03,76481.46,8
+01-07-2029,Smartphones,Electronics,West,61823.22,14192.2,1
+04-07-2029,Tablets,Electronics,East,481220.14,179843.97,12
+05-07-2029,T-Shirts,Clothing,South,27599.14,10706.55,6
+11-07-2029,Smartphones,Electronics,South,741729.0,158253.13,12
+11-07-2029,Headphones,Electronics,South,590968.92,147485.19,15
+13-07-2029,Headphones,Electronics,South,335343.52,106501.48,7
+14-07-2029,Monitors,Electronics,West,243422.4,74373.29,7
+14-07-2029,Bookshelves,Furniture,North,142503.0,62754.03,6
+14-07-2029,Smartphones,Electronics,West,572389.79,217190.5,12
+15-07-2029,Bookshelves,Furniture,East,157690.85,39915.85,8
+15-07-2029,Scented Candles,Home Decor,North,22158.92,6879.24,7
+19-07-2029,Smartphones,Electronics,West,643272.42,200037.41,11
+22-07-2029,Clocks,Home Decor,South,28628.03,10169.03,12
+23-07-2029,Desks,Furniture,South,295115.18,122303.07,13
+24-07-2029,Desks,Furniture,East,80289.53,36105.04,5
+26-07-2029,Clocks,Home Decor,East,29259.53,11336.52,14
+03-08-2029,Vases,Home Decor,East,9729.7,1909.39,4
+08-08-2029,Wall Art,Home Decor,South,21180.57,5242.51,9
+10-08-2029,Headphones,Electronics,West,716821.76,189505.7,12
+12-08-2029,Sneakers,Clothing,East,13399.94,2439.21,3
+12-08-2029,Monitors,Electronics,North,507700.83,109574.48,11
+16-08-2029,Jeans,Clothing,East,2656.21,1048.18,1
+19-08-2029,Sneakers,Clothing,North,28781.21,5469.99,10
+21-08-2029,Sofas,Furniture,South,136150.34,40125.19,9
+22-08-2029,Desks,Furniture,North,39838.57,17680.56,2
+23-08-2029,Sofas,Furniture,North,248894.42,76354.51,14
+23-08-2029,Desks,Furniture,North,65210.15,22732.7,3
+24-08-2029,Jeans,Clothing,North,21930.72,5153.15,6
+03-09-2029,Office Chairs,Furniture,East,48717.1,15259.39,2
+04-09-2029,Desks,Furniture,East,209599.44,75446.17,10
+05-09-2029,Bookshelves,Furniture,South,40244.47,13864.89,3
+06-09-2029,Sneakers,Clothing,North,26130.94,6905.39,9
+07-09-2029,Jeans,Clothing,South,19143.38,6143.82,6
+09-09-2029,Desks,Furniture,East,299890.85,73117.73,15
+13-09-2029,Lamps,Furniture,South,91722.07,14556.98,5
+14-09-2029,Jackets,Clothing,South,47524.73,10531.76,11
+15-09-2029,Lamps,Furniture,West,265209.6,83224.68,15
+15-09-2029,T-Shirts,Clothing,East,19434.1,8374.06,5
+16-09-2029,Wall Art,Home Decor,North,49975.39,16442.99,14
+17-09-2029,Wall Art,Home Decor,West,18598.95,7413.77,6
+18-09-2029,Sneakers,Clothing,West,67023.26,17643.8,14
+20-09-2029,Dresses,Clothing,South,48758.29,21756.43,13
+21-09-2029,Laptops,Electronics,West,446411.16,135696.22,8
+27-09-2029,Scented Candles,Home Decor,North,33728.24,5284.23,12
+30-09-2029,Wall Art,Home Decor,West,28273.06,7640.55,10
+01-10-2029,Wall Art,Home Decor,South,10688.55,1856.67,5
+03-10-2029,Vases,Home Decor,North,7062.5,2064.96,3
+04-10-2029,Vases,Home Decor,South,20762.85,4831.41,8
+04-10-2029,Smartphones,Electronics,West,626193.85,107477.5,11
+07-10-2029,Laptops,Electronics,North,614478.86,171669.57,13
+12-10-2029,Lamps,Furniture,East,110177.34,45284.12,8
+13-10-2029,Tablets,Electronics,West,118647.4,29262.43,2
+13-10-2029,Vases,Home Decor,West,25448.49,8707.04,11
+20-10-2029,Sofas,Furniture,South,203851.97,43233.5,13
+21-10-2029,Scented Candles,Home Decor,South,8640.31,1531.69,3
+24-10-2029,Lamps,Furniture,West,120748.43,44968.91,6
+30-10-2029,Office Chairs,Furniture,North,135091.7,28042.28,9
+30-10-2029,Dresses,Clothing,South,39240.35,10301.33,10
+01-11-2029,Sneakers,Clothing,West,37308.45,6202.58,8
+01-11-2029,Bookshelves,Furniture,East,233555.56,38203.32,13
+06-11-2029,Wall Art,Home Decor,South,24193.68,6451.26,8
+10-11-2029,Rug,Home Decor,North,22279.88,4497.02,7
+14-11-2029,Sofas,Furniture,South,299196.05,45335.17,15
+16-11-2029,Lamps,Furniture,North,281488.93,64465.67,12
+16-11-2029,Headphones,Electronics,West,370371.63,162418.63,7
+25-11-2029,Scented Candles,Home Decor,South,44166.23,15814.52,12
+27-11-2029,Smartphones,Electronics,West,650331.7,102753.1,15
+30-11-2029,Wall Art,Home Decor,North,33585.9,7448.99,11
+04-12-2029,Smartphones,Electronics,South,710159.54,253342.37,13
+05-12-2029,Bookshelves,Furniture,East,248508.35,67751.04,15
+05-12-2029,Scented Candles,Home Decor,West,36332.16,9862.73,15
+11-12-2029,Monitors,Electronics,East,444210.16,187851.3,12
+11-12-2029,Jackets,Clothing,South,15852.88,2542.91,4
+14-12-2029,T-Shirts,Clothing,North,5639.28,2076.74,2
+16-12-2029,T-Shirts,Clothing,West,41237.22,14573.34,15
+17-12-2029,Jeans,Clothing,West,50031.36,22049.65,11
+20-12-2029,Bookshelves,Furniture,South,282145.59,58700.2,13
+20-12-2029,Office Chairs,Furniture,South,174595.61,31110.86,8
+20-12-2029,Jackets,Clothing,East,49278.27,18689.05,14
+21-12-2029,Desks,Furniture,South,13688.5,3518.66,1
+23-12-2029,Bookshelves,Furniture,North,17049.23,2844.42,1
+23-12-2029,Smartphones,Electronics,North,475525.16,78526.7,8
+25-12-2029,Sneakers,Clothing,South,28906.45,12709.56,9
+25-12-2029,Wall Art,Home Decor,West,20343.16,9036.46,8
+27-12-2029,Jackets,Clothing,North,8576.64,2395.4,3
+01-01-2030,Jackets,Clothing,East,43630.92,16471.58,14
+01-01-2030,Tablets,Electronics,South,569819.14,244947.08,11
+05-01-2030,Tablets,Electronics,East,412409.91,79782.55,8
+06-01-2030,Desks,Furniture,East,99533.06,42198.16,5
+13-01-2030,Jackets,Clothing,South,22517.58,6364.87,8
+13-01-2030,Office Chairs,Furniture,South,65464.87,12163.78,3
+15-01-2030,Laptops,Electronics,East,43010.73,15754.99,1
+16-01-2030,Desks,Furniture,North,16652.26,4416.93,1
+18-01-2030,Clocks,Home Decor,East,10566.85,4058.5,3
+18-01-2030,Scented Candles,Home Decor,South,8197.13,1247.84,3
+19-01-2030,Vases,Home Decor,South,31975.87,10516.28,10
+20-01-2030,Scented Candles,Home Decor,North,9976.67,2342.68,4
+26-01-2030,Laptops,Electronics,East,581554.23,199705.69,14
+26-01-2030,Jeans,Clothing,East,8750.48,3373.16,3
+28-01-2030,Monitors,Electronics,South,623985.84,166395.81,12
+29-01-2030,Jeans,Clothing,North,11889.3,4530.35,4
+31-01-2030,Laptops,Electronics,North,732154.9,144537.4,15
+01-02-2030,Rug,Home Decor,North,16415.1,5737.61,6
+01-02-2030,Laptops,Electronics,South,362190.49,104793.53,8
+01-02-2030,Sneakers,Clothing,East,15162.05,2610.89,5
+03-02-2030,Smartphones,Electronics,East,730414.71,238799.5,13
+07-02-2030,Sneakers,Clothing,West,9291.97,2000.66,3
+07-02-2030,Sneakers,Clothing,West,50767.48,17729.44,13
+11-02-2030,Clocks,Home Decor,South,23039.28,7271.54,8
+18-02-2030,Headphones,Electronics,South,56181.72,23356.83,1
+20-02-2030,Monitors,Electronics,West,90479.1,17594.56,2
+20-02-2030,Jeans,Clothing,North,47102.91,14235.57,12
+21-02-2030,T-Shirts,Clothing,West,19623.72,7799.53,4
+22-02-2030,Rug,Home Decor,North,35305.51,7815.35,10
+23-02-2030,Bookshelves,Furniture,South,87747.09,27350.17,4
+23-02-2030,Clocks,Home Decor,North,17557.25,2989.41,8
+27-02-2030,Headphones,Electronics,West,449484.85,153742.92,10
+28-02-2030,T-Shirts,Clothing,West,40628.36,11404.5,14
+05-03-2030,Lamps,Furniture,East,239591.61,85530.82,10
+07-03-2030,Office Chairs,Furniture,East,119586.87,34250.85,7
+08-03-2030,Smartphones,Electronics,North,34991.49,13446.81,1
+11-03-2030,T-Shirts,Clothing,West,56207.03,12610.02,12
+17-03-2030,Sneakers,Clothing,North,8284.16,1335.11,3
+19-03-2030,Sneakers,Clothing,West,66689.43,18924.73,14
+27-03-2030,Dresses,Clothing,West,28937.73,8781.27,10
+02-04-2030,Jeans,Clothing,North,18201.82,5236.2,6
+03-04-2030,Tablets,Electronics,East,571123.97,216997.44,11
+06-04-2030,Bookshelves,Furniture,West,177767.01,68162.49,8
+08-04-2030,Jeans,Clothing,East,21707.84,6919.54,6
+09-04-2030,Clocks,Home Decor,South,18802.35,4306.06,9
+10-04-2030,Sneakers,Clothing,East,25280.34,10297.19,6
+12-04-2030,Desks,Furniture,South,331632.62,75418.51,14
+18-04-2030,Bookshelves,Furniture,West,94554.02,30907.84,4
+22-04-2030,Sneakers,Clothing,North,8841.32,1914.36,2
+23-04-2030,Laptops,Electronics,West,498808.3,87279.16,9
+24-04-2030,Desks,Furniture,East,301028.59,117922.79,14
+26-04-2030,Sofas,Furniture,South,65871.84,25626.2,3
+28-04-2030,Jackets,Clothing,South,66287.19,24837.04,14
+28-04-2030,Smartphones,Electronics,West,154260.52,64421.89,3
+28-04-2030,Vases,Home Decor,South,39602.41,6582.25,11
+29-04-2030,Lamps,Furniture,East,35735.25,14515.01,2
+01-05-2030,Bookshelves,Furniture,North,60449.82,10725.04,4
+02-05-2030,T-Shirts,Clothing,North,52877.65,22197.69,11
+03-05-2030,Vases,Home Decor,East,14936.87,2505.64,6
+03-05-2030,Rug,Home Decor,West,6079.84,923.96,2
+04-05-2030,Headphones,Electronics,North,570353.77,185077.72,14
+05-05-2030,Lamps,Furniture,West,130653.63,40389.3,8
+09-05-2030,T-Shirts,Clothing,West,43377.78,9515.55,13
+14-05-2030,Scented Candles,Home Decor,South,28654.66,7240.98,8
+17-05-2030,Sofas,Furniture,South,252600.71,39591.07,11
+22-05-2030,Office Chairs,Furniture,North,61060.28,14504.47,4
+27-05-2030,Desks,Furniture,West,149383.15,48518.73,10
+30-05-2030,Office Chairs,Furniture,East,276413.27,50988.74,14
+02-06-2030,Sofas,Furniture,South,273037.64,49437.88,12
+03-06-2030,Wall Art,Home Decor,North,26581.63,4081.75,9
+04-06-2030,Rug,Home Decor,East,20859.22,8327.4,6
+08-06-2030,Tablets,Electronics,South,240620.48,68937.11,4
+08-06-2030,Jeans,Clothing,West,5879.94,1745.18,2
+11-06-2030,T-Shirts,Clothing,North,8222.48,3297.3,2
+14-06-2030,Monitors,Electronics,South,157097.28,68188.8,3
+17-06-2030,T-Shirts,Clothing,South,34606.96,5759.8,7
+17-06-2030,Monitors,Electronics,West,295951.79,117376.53,6
+18-06-2030,Smartphones,Electronics,North,578926.5,230374.02,14
+20-06-2030,Laptops,Electronics,West,86818.71,25036.13,2
+22-06-2030,Monitors,Electronics,North,206140.91,87873.49,4
+23-06-2030,Dresses,Clothing,North,62371.27,23065.97,14
+27-06-2030,Wall Art,Home Decor,East,23381.26,9358.94,8
+28-06-2030,Scented Candles,Home Decor,North,31654.0,8958.55,12
+28-06-2030,Dresses,Clothing,West,35682.72,6575.24,10
+29-06-2030,Lamps,Furniture,West,102857.71,38968.86,6
+03-07-2030,Vases,Home Decor,East,6707.84,2106.02,3
+03-07-2030,Rug,Home Decor,West,45646.98,17970.43,14
+04-07-2030,Office Chairs,Furniture,East,18248.78,4349.87,1
+07-07-2030,Smartphones,Electronics,South,307505.37,87003.47,5
+09-07-2030,Bookshelves,Furniture,North,41570.17,12907.17,3
+09-07-2030,Smartphones,Electronics,West,204142.88,37128.47,4
+10-07-2030,Jeans,Clothing,West,2865.76,629.86,1
+10-07-2030,Lamps,Furniture,North,101890.49,21016.24,5
+11-07-2030,Laptops,Electronics,South,732235.93,195209.52,15
+20-07-2030,Jackets,Clothing,East,23567.7,4458.5,6
+22-07-2030,Monitors,Electronics,North,278585.17,110594.09,5
+03-08-2030,Sofas,Furniture,East,168326.75,54353.67,7
+04-08-2030,Wall Art,Home Decor,South,14746.45,6315.93,5
+04-08-2030,Sneakers,Clothing,North,17054.63,6398.4,6
+06-08-2030,Monitors,Electronics,North,543336.35,218228.24,9
+10-08-2030,Headphones,Electronics,East,233329.32,51493.84,7
+12-08-2030,T-Shirts,Clothing,West,61327.06,17224.68,14
+12-08-2030,Bookshelves,Furniture,North,115958.91,31864.65,8
+13-08-2030,Sofas,Furniture,North,287643.84,115776.88,14
+14-08-2030,T-Shirts,Clothing,North,22368.52,3865.4,7
+20-08-2030,Sneakers,Clothing,East,8149.71,2682.35,3
+20-08-2030,Scented Candles,Home Decor,South,37342.81,10909.85,14
+22-08-2030,Vases,Home Decor,South,39597.07,16310.06,13
+23-08-2030,Jackets,Clothing,North,50035.42,11373.45,13
+28-08-2030,Vases,Home Decor,North,8464.32,2830.68,3
+28-08-2030,Scented Candles,Home Decor,South,25327.64,4614.63,8
+02-09-2030,Rug,Home Decor,West,22608.45,6401.71,7
+07-09-2030,Clocks,Home Decor,North,47839.61,17245.71,13
+07-09-2030,T-Shirts,Clothing,North,37736.04,10144.01,11
+08-09-2030,Sofas,Furniture,West,159423.18,27683.7,7
+11-09-2030,Desks,Furniture,East,197043.6,85920.85,13
+11-09-2030,T-Shirts,Clothing,East,40198.13,13107.86,12
+11-09-2030,Headphones,Electronics,South,441437.12,87702.15,10
+11-09-2030,Tablets,Electronics,West,51666.24,22955.92,1
+22-09-2030,Wall Art,Home Decor,West,8659.77,2485.7,3
+24-09-2030,T-Shirts,Clothing,West,25368.7,9803.31,7
+30-09-2030,Wall Art,Home Decor,North,5217.75,928.34,2
+30-09-2030,Dresses,Clothing,East,52420.4,16568.75,12
+03-10-2030,Office Chairs,Furniture,South,284759.96,109459.9,14
+06-10-2030,Desks,Furniture,North,220255.43,68964.99,10
+07-10-2030,Smartphones,Electronics,East,382067.88,73535.48,9
+18-10-2030,Sneakers,Clothing,South,32392.6,12800.62,9
+18-10-2030,Jackets,Clothing,East,21650.39,3692.24,7
+19-10-2030,Sneakers,Clothing,East,19812.05,6346.8,5
+22-10-2030,Laptops,Electronics,North,373180.9,148872.85,9
+23-10-2030,Wall Art,Home Decor,South,52059.75,14937.95,15
+24-10-2030,Jeans,Clothing,North,52640.54,16041.89,13
+26-10-2030,Lamps,Furniture,East,130625.56,46224.03,7
+02-11-2030,Wall Art,Home Decor,South,36101.12,6400.1,12
+05-11-2030,Scented Candles,Home Decor,West,5511.45,1978.77,2
+06-11-2030,Vases,Home Decor,East,17016.43,4011.09,8
+06-11-2030,Sneakers,Clothing,North,4976.72,2011.54,1
+13-11-2030,Bookshelves,Furniture,West,75717.71,23808.8,5
+13-11-2030,Jeans,Clothing,East,4386.13,813.97,1
+16-11-2030,Clocks,Home Decor,South,20658.77,3370.93,7
+18-11-2030,Vases,Home Decor,South,2989.99,1076.86,1
+18-11-2030,Desks,Furniture,North,111530.45,27550.64,5
+19-11-2030,T-Shirts,Clothing,South,15923.35,3245.7,5
+22-11-2030,Monitors,Electronics,North,371783.66,153669.37,8
+22-11-2030,T-Shirts,Clothing,West,5342.76,1825.31,2
+23-11-2030,Jeans,Clothing,West,39155.63,11720.15,9
+24-11-2030,Rug,Home Decor,North,11060.57,3790.47,3
+24-11-2030,Tablets,Electronics,West,531291.44,210207.28,15
+27-11-2030,Jackets,Clothing,East,46519.03,12184.05,13
+07-12-2030,Tablets,Electronics,East,356208.55,87252.06,7
+09-12-2030,Dresses,Clothing,East,3823.15,1373.88,1
+12-12-2030,Rug,Home Decor,East,22219.96,8594.78,10
+13-12-2030,Monitors,Electronics,East,270126.39,115811.18,8
+16-12-2030,Office Chairs,Furniture,North,216150.0,71007.55,14
+25-12-2030,Laptops,Electronics,South,566361.35,121174.45,11
+26-12-2030,Tablets,Electronics,South,113626.64,48394.35,2
