@@ -1,81 +1,186 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sales Performance Dashboard</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <!-- Chart.js -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <!-- PapaParse for CSV parsing -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sales Analytics Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
 </head>
 <body>
-    <div class="dashboard-container">
-        <header>
-            <div>
-                <h1>Sales Analytics Pro</h1>
-                <p style="color: var(--text-muted); margin-top: 0.25rem;">Real-time Performance Insights</p>
-            </div>
-            <div id="data-status" style="font-size: 0.875rem; color: var(--accent); background: rgba(6, 182, 212, 0.1); padding: 0.5rem 1rem; border-radius: 2rem;">
-                ● Connected to Live Data
-            </div>
-        </header>
+  <div class="container">
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="logo">
+        <div class="logo-icon">📊</div>
+        <span>SalesAnalytics Pro</span>
+      </div>
+      
+      <ul class="nav-tabs">
+        <li class="nav-tab">
+          <span class="nav-icon">🏠</span>
+          <span>Dashboard</span>
+        </li>
+        <li class="nav-tab active">
+          <span class="nav-icon">📈</span>
+          <span>Sales Analysis</span>
+        </li>
+        <li class="nav-tab">
+          <span class="nav-icon">👥</span>
+          <span>Customers</span>
+        </li>
+        <li class="nav-tab">
+          <span class="nav-icon">📦</span>
+          <span>Products</span>
+        </li>
+        <li class="nav-tab">
+          <span class="nav-icon">💰</span>
+          <span>Revenue</span>
+        </li>
+        <li class="nav-tab">
+          <span class="nav-icon">⚙️</span>
+          <span>Settings</span>
+        </li>
+      </ul>
+    </aside>
 
-        <section class="kpi-grid" id="kpi-grid">
-            <div class="kpi-card">
-                <div class="kpi-label">Total Sales</div>
-                <div class="kpi-value" id="kpi-total-sales">$0</div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-label">Total Profit</div>
-                <div class="kpi-value" id="kpi-total-profit">$0</div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-label">Avg Order Value</div>
-                <div class="kpi-value" id="kpi-aov">$0</div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-label">Units Sold</div>
-                <div class="kpi-value" id="kpi-total-quantity">0</div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-label">Profit Margin</div>
-                <div class="kpi-value" id="kpi-margin">0%</div>
-            </div>
-        </section>
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Header -->
+      <div class="header">
+        <h1>Sales Analytics Dashboard</h1>
+        <p>Comprehensive sales performance and market insights</p>
+      </div>
 
-        <main class="charts-grid">
-            <div class="chart-card">
-                <div class="chart-title">Sales Trend Over Time</div>
-                <div class="chart-container">
-                    <canvas id="salesTrendChart"></canvas>
-                </div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">Sales by Category</div>
-                <div class="chart-container">
-                    <canvas id="categoryChart"></canvas>
-                </div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">Regional Performance</div>
-                <div class="chart-container">
-                    <canvas id="regionChart"></canvas>
-                </div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">Profitability Analysis</div>
-                <div class="chart-container">
-                    <canvas id="profitChart"></canvas>
-                </div>
-            </div>
-        </main>
-    </div>
+      <!-- Filters -->
+      <div class="filters">
+        <div class="filter-group">
+          <label for="productCategoryFilter">Product Category</label>
+          <select id="productCategoryFilter">
+            <!-- Options will be populated by JavaScript -->
+          </select>
+        </div>
+        
+        <div class="filter-group">
+          <label for="regionFilter">Region</label>
+          <select id="regionFilter">
+            <!-- Options will be populated by JavaScript -->
+          </select>
+        </div>
+        
+        <div class="filter-group">
+          <label for="dateRange">Date Range</label>
+          <select id="dateRange">
+            <option value="last30">Last 30 Days</option>
+            <option value="last90">Last 90 Days</option>
+            <option value="year">This Year</option>
+            <option value="custom">Custom Range</option>
+          </select>
+        </div>
+      </div>
 
-    <script src="app.js"></script>
+      <!-- Metrics Cards -->
+      <div class="metrics-grid">
+        <div class="metric-card primary">
+          <div class="metric-label">Total Revenue</div>
+          <div class="metric-value" id="totalRevenue">$0.00</div>
+          <div class="metric-change">
+            <span>↑</span>
+            <span>vs last period</span>
+          </div>
+        </div>
+        
+        <div class="metric-card secondary">
+          <div class="metric-label">Sales Volume</div>
+          <div class="metric-value" id="salesVolume">0</div>
+          <div class="metric-change">
+            <span>↗️</span>
+            <span>Total units sold</span>
+          </div>
+        </div>
+        
+        <div class="metric-card success">
+          <div class="metric-label">Avg. Order Value</div>
+          <div class="metric-value" id="avgOrderValue">$0.00</div>
+          <div class="metric-change">
+            <span>✓</span>
+            <span>Per transaction</span>
+          </div>
+        </div>
+        
+        <div class="metric-card warning">
+          <div class="metric-label">Conversion Rate</div>
+          <div class="metric-value" id="conversionRate">0%</div>
+          <div class="metric-change">
+            <span>📈</span>
+            <span>Website visitors</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Charts Grid -->
+      <div class="charts-grid">
+        <!-- Sales by Category Chart -->
+        <div class="chart-card">
+          <h2 class="chart-title">
+            <div class="chart-icon">📊</div>
+            Sales by Category
+          </h2>
+          <div class="chart-container">
+            <canvas id="categoryChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Revenue Trend Chart -->
+        <div class="chart-card">
+          <h2 class="chart-title">
+            <div class="chart-icon">💰</div>
+            Monthly Revenue Trend
+          </h2>
+          <div class="chart-container">
+            <canvas id="revenueChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Top Products Chart -->
+        <div class="chart-card">
+          <h2 class="chart-title">
+            <div class="chart-icon">🏆</div>
+            Top 5 Best Selling Products
+          </h2>
+          <div class="chart-container">
+            <canvas id="topProductsChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Regional Performance Chart -->
+        <div class="chart-card">
+          <h2 class="chart-title">
+            <div class="chart-icon">🌍</div>
+            Regional Performance
+          </h2>
+          <div class="chart-container">
+            <canvas id="regionalChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Customer Acquisition Chart -->
+        <div class="chart-card full-width">
+          <h2 class="chart-title">
+            <div class="chart-icon">👥</div>
+            Customer Acquisition & Retention (2025)
+          </h2>
+          <div class="chart-container">
+            <canvas id="customerChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
